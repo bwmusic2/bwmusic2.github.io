@@ -46,7 +46,7 @@ $('.tablet-close').click(function (e) {
 });
 
 /**** the jScrollPane script ****/
-
+/*
 (function ($) {
     "use strict";
     $(window).load(function () {
@@ -94,4 +94,4 @@ $('.tablet-close').click(function (e) {
             });
         });
     });
-})(jQuery);
+})(jQuery);*/
